@@ -23,16 +23,16 @@ Supported arguments:
 
 ## Education
 
-### **Hunan University** `2018.9 -`
+### **Hunan University** `2018.9 - 2021.5(expected)`
 
 ```
 Changsha, China
 ```
 
 - M.Phil. in Computer Vision
-- Advised by [Fengjun Chen](http://www.researchgate.net/profile/Fengjun-Chen/) 
+- Advised by [Fengjun Chen](https://www.researchgate.net/profile/Fengjun-Chen) 
 
-### **South West Jiaotong University** `2016.9 - 2018.5`
+### **South West Jiaotong University** `2014.9 - 2018.5`
 
 ```
 Chengdu, China
