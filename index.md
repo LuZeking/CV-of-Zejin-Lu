@@ -41,6 +41,9 @@ Chengdu, China
 - B.S. in Automation, _Ranking Top 5%_
 - Outstanding Graduate of SWJTU
 
+![](https://https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=arsenal&step_word=&hs=0&pn=2&spn=0&di=191730&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3830118453%2C3671153348&os=4140646901%2C2413523662&simid=0%2C0&adpicid=0&lpn=0&ln=1931&fr=&fmq=1608618352007_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1608628434220%26di%3Db26c6f0e71e5fd99fb620db384ab969d%26imgtype%3D0%26src%3Dhttp%3A%2F%2Fstatic.jstv.com%2Fgather%2Fhl%2F20170720%2F59%2F315191499313138303.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fgjof_z%26e3B3fpe_z%26e3Bv54AzdH3FwAzdH3Fda80a0daAzdH3F8caacnl8c0m98_z%26e3Bfip4s&gsm=3&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+这里是段落内容，注意两行中间并没有任何的换行！
+
 ## Experience
 
 ### **Alibaba Research** `2020.5 -2020.9`
