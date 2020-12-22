@@ -1,10 +1,15 @@
 ---
 layout: cv
-title: Wode "Zejin" Lu
+title: Zejin Lu
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
+.markdown-here-wrapper{ 
+ 
+  margin-right: 5em; //左侧边距
+  margin-left: 5em; //右侧边距
 
+}
 ---
 
 # **Zejin** **Lu** 
@@ -23,7 +28,7 @@ Supported arguments:
 
 ## Education
 
-### **Hunan University** `2018.9 - 2021.5(expected)`
+### **Hunan University** `Sep.2018 - May.2021(expected)`
 
 ```
 Changsha, China
@@ -32,7 +37,7 @@ Changsha, China
 - M.Phil. in Computer Vision
 - Advised by [Fengjun Chen](https://www.researchgate.net/profile/Fengjun-Chen) 
 
-### **South West Jiaotong University** `2014.9 - 2018.5`
+### **South West Jiaotong University** `Sep.2014 - May.2018`
 
 ```
 Chengdu, China
@@ -43,7 +48,7 @@ Chengdu, China
 
 ## Experience
 
-### **Microsoft Research** `2020.5 -`
+### **Alibaba Research** `2020.5 -2020.9`
 
 _Research Intern_<br>
 
