@@ -30,7 +30,7 @@ Changsha, China
 ```
 
 - M.Phil. in Computer Vision
-- Advised by [Fengjun Chen](http://https://www.researchgate.net/profile/Fengjun-Chen/) 
+- Advised by [Fengjun Chen](http://www.researchgate.net/profile/Fengjun-Chen/) 
 
 ### **South West Jiaotong University** `2016.9 - 2018.5`
 
