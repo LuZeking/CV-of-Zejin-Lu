@@ -1,17 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Wode "Zejin" Lu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:luzejin@hnu.edu.cn
+  text: luzejin@hnu.edu.cn
+
 ---
 
-# **Zejin** **Lu** is awesome
+# **Zejin** **Lu** 
 
-<!--
+<!--homepage:
+  url: http://cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
@@ -23,32 +23,44 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Hunan University** `2018.9 -`
 
 ```
-Pittsburgh, PA
+Changsha, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.Phil. in Computer Vision
+- Advised by [Fengjun Chen](http://https://www.researchgate.net/profile/Fengjun-Chen/) 
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **South West Jiaotong University** `2016.9 - 2018.5`
 
 ```
-Carlisle, PA
+Chengdu, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Automation, _Ranking Top 5%_
+- Outstanding Graduate of SWJTU
+
+## Experience
+
+### **Microsoft Research** `2020.5 -`
+
+_Research Intern_<br>
+
+### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+
+_Research Assistant_<br>
+**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+
+### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+
+_Research Assistant_<br>
+Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+
+### **AsiaInfo** `2015.6 - 2015.8`
+
+_Software Engineering Intern_<br>
+Worked on server-side web applications and server deployment tools.
 
 ## Publications
 
@@ -97,32 +109,6 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
-## Experience
-
-### **Microsoft Research** `2020.5 -`
-
-_Research Intern_<br>
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Mentoring
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ## Honors & Awards
 
@@ -154,4 +140,7 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2020 -->
+
+## Hobbys
+Football, Reading and Music
