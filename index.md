@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Zejin Lu
+geometry: margin=4cm
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
