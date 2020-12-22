@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Zejin **Lu**
+# **Zejin** **Lu** is awesome
 
 <!--
 include contact information from the front matter
