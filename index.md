@@ -7,7 +7,7 @@ email:
   text: luzejin@hnu.edu.cn
 ---
 
-# **Zejin** **Lu** 
+# **Zejin** **Lu**   **陆泽金**
 
 <!--homepage:
   url: http://cs.cmu.edu/~woden
@@ -41,8 +41,8 @@ Chengdu, China
 - B.S. in Automation, _Ranking Top 5%_
 - Outstanding Graduate of SWJTU
 
-![](http://static.jstv.com/gather/hl/20170720/59/315191499313138303.jpg)
-这里是段落内容，注意两行中间并没有任何的换行！
+//![](http://static.jstv.com/gather/hl/20170720/59/315191499313138303.jpg)//
+//这里是段落内容，注意两行中间并没有任何的换行！//
 
 ## Experience
 
