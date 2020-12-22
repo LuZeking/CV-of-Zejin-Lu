@@ -4,12 +4,7 @@ title: Zejin Lu
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
-.markdown-here-wrapper{ 
- 
-  margin-right: 5em; //左侧边距
-  margin-left: 5em; //右侧边距
 
-}
 ---
 
 # **Zejin** **Lu** 
