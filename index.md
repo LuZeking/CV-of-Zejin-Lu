@@ -66,39 +66,9 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ## Publications
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**Co-IoU Loss and Relocation Strategy for target matching**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
+**Zejin Lu\***, Jinqi Liao*, Jiyang Lv, and Fengjun Chen.<br> _International Conference on Computer Vision and Applications._ <br>
 [[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
 [[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
@@ -106,10 +76,17 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ---
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots **](http://scholar.dickinson.edu/student_honors/221/)
 
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.<br> _in Process._<br>
+
+### [**Sudoku Searching Strategy for high precision in real-time applications**](http://scholar.dickinson.edu/student_honors/221/)
+
+<br> _In Prep (Draft)._<br>
+
+### [**Verification with Coverage NMS for high reliability in object detection	Working Paper**](http://scholar.dickinson.edu/student_honors/221/)
+
+<br> _Working Paper (Draft)._<br>
 
 
 ## Honors & Awards
@@ -126,7 +103,8 @@ The Best Oralist `SWJTU, 2015` <br>
 
 ## Teaching
 
-Teaching Assistant, **Computer Aided Design System** `Hunan University, 2017 - 2018` <br>
+Teaching Assistant, **Computer Aided Design System** `HNU, 2017 - 2018` <br>
+Teaching Assistant,**Introduction to C** `SWJTU, 2015 - 2016` <br>
 
 
 ## Service
