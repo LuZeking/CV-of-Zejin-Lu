@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <title>{% if page.title %} {{ page.title }} | {% endif %} CV</title>
+    <style>		
+	  div.padding {padding-left:10%;padding-right:10%;}
+	  </style>
     <link
       href="media/cv-screen.css"
       type="text/css"
@@ -27,7 +30,7 @@
   </head>
   <body>
     <div id="main">
-      <div id="content">
+      <div class="padding" id="content">
         {{ content }}
       </div>
     </div>
