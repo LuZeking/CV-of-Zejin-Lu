@@ -4,7 +4,7 @@ title: Zejin Lu
 geometry: margin=4cm
 email:
   url: mailto:luzejin@hnu.edu.cn
-  text: luzejin@hnu.edu.cn
+  text:luzejin@hnu.edu.cn
 ---
 
 # **Zejin** **Lu**   
@@ -49,7 +49,7 @@ Chengdu, China
 _Research Intern_<br>
 Research on machine learning algorithm in E-commerce, such as anomaly detection and risk control algorithms
 
-### ** Institute of Automation, Chinese Academy of Sciences** `2019.5 -2020.9`
+### **Institute of Automation, Chinese Academy of Sciences** `2019.5 -2020.9`
 
 _Research Assistant_<br>
 Research on object detection and instance segmentation and join in Google Open-images Instance Segmentation Competition and won silver medal, worked with Prod. Jin Liu.
@@ -76,17 +76,14 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ---
 
-### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots **](http://scholar.dickinson.edu/student_honors/221/)
+### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**](http://scholar.dickinson.edu/student_honors/221/)
 
 Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.<br> _in Process._<br>
 
-### [**Sudoku Searching Strategy for high precision in real-time applications**](http://scholar.dickinson.edu/student_honors/221/)
+### [**Sudoku Searching Strategy for high precision in real-time applications**](http://scholar.dickinson.edu/student_honors/221/)  <br> _In Prep (Draft)._<br>
 
-<br> _In Prep (Draft)._<br>
+### [**Verification with Coverage NMS for high reliability in object detection**](http://scholar.dickinson.edu/student_honors/221/)  <br> _Working Paper (Draft)._<br>
 
-### [**Verification with Coverage NMS for high reliability in object detection	Working Paper**](http://scholar.dickinson.edu/student_honors/221/)
-
-<br> _Working Paper (Draft)._<br>
 
 
 ## Honors & Awards
