@@ -47,21 +47,22 @@ Chengdu, China
 ### **Alibaba Research** `2020.5 -2020.9`
 
 _Research Intern_<br>
+Research on machine learning algorithm in E-commerce, such as anomaly detection and risk control algorithms
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### ** Institute of Automation, Chinese Academy of Sciences** `2019.5 -2020.9`
 
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Research on object detection and instance segmentation and join in Google Open-images Instance Segmentation Competition and won silver medal, worked with Prod. Jin Liu.
 
-### **AsiaInfo** `2015.6 - 2015.8`
+### **Huawei Research** `2019.7 -2019.8`
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+_Research Intern_<br>
+Research on objection detection algorithm in mobile phone photographing scene.
+
+### **Microsoft Research** `2018.3 -2018.5`
+
+_Research Intern_<br>
+Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ## Publications
 
@@ -113,35 +114,29 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Google Open Images Instance Segmentation Competition Silver Medal `IACAS, 2019` <br>
+Top Award of Scholarship  `HNU, 2018` <br>
+Chinese National Scholarship `SWJTU, 2018` <br>
+Title of “Outstanding Graduates” `SWJTU, 2018` <br>
+Top Award of Scholarship 5 times`SWJTU, 2014-2018` <br>
+Triple-A Student 3 times `SWJTU, 2014-2018` <br>
+The Best Oralist `SWJTU, 2015` <br>
 
 ---
 
 ## Teaching
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Teaching Assistant, **Computer Aided Design System** `Hunan University, 2017 - 2018` <br>
 
 
 ## Service
 
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
-
-<!-- ### Footer
-
-Last updated: Nov 2020 -->
+Minister of Foreign Student Department`HNU 2018-2019`
+Organizing activaties and providing consulting serives for foreign student to help them get into the local well. 
 
 ## Hobbys
 Football, Reading and Music
+
+<!-- ### Footer
+
+Last updated: Dec 2020 -->
