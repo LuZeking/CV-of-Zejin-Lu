@@ -61,7 +61,7 @@ Worked with Prod. Jin Liu, on object detection and instance segmentation. Joined
 _Research Intern_<br>
 Research on objection detection algorithm in mobile phone photographing scene.
 
-### **Microsoft Research** `Mar.2018 -May.2018`
+### **Microsoft Research** `Mar 2018 -May 2018`
 
 _Research Intern_<br>
 Mainly engaged in Windows System like Active Directory, Database and so on.
@@ -78,13 +78,13 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ---
 
-### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**]` _in Process._<br>
+### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**]()
 
-Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.
+Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.`<br> _in Process._<br>
 
-### [**Sudoku Searching Strategy for high precision in real-time applications**]<br> _In Prep (Draft)._<br>
+### [**Sudoku Searching Strategy for high precision in real-time applications**]()<br> _In Prep (Draft)._<br>
 
-### [**Verification with Coverage NMS for high reliability in object detection**]`Working Paper (Draft)._<br>
+### [**Verification with Coverage NMS for high reliability in object detection**]()`<br> _Working Paper (Draft)._<br>
 
 
 
