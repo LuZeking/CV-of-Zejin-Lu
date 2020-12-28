@@ -5,6 +5,8 @@ geometry: margin=4cm
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
+<!--phone:
+  text:(+86)13182489652
 ---
 
 # **Zejin** **Lu**   
@@ -23,7 +25,7 @@ Supported arguments:
 
 ## Education
 
-### **Hunan University** `Sep.2018 - May.2021(expected)`
+### **Hunan University** `Sep 2018 - May 2021(expected)`
 
 ```
 Changsha, China
@@ -32,7 +34,7 @@ Changsha, China
 - M.Phil. in Computer Vision
 - Advised by [Fengjun Chen](https://www.researchgate.net/profile/Fengjun-Chen) 
 
-### **South West Jiaotong University** `Sep.2014 - May.2018`
+### **South West Jiaotong University** `Sep 2014 - May 2018`
 
 ```
 Chengdu, China
@@ -44,22 +46,22 @@ Chengdu, China
 
 ## Experience
 
-### **Alibaba Research** `2020.5 -2020.9`
+### **Alibaba Research** `May 2020 - Sep 2020`
 
 _Research Intern_<br>
-Research on machine learning algorithm in E-commerce, such as anomaly detection and risk control algorithms
+Research on machine learning and computer vision algorithm in E-commerce, such as anomaly detection and risk control algorithms, of which the accuarcy was improved to 99.9% and the speed was 20X faster.
 
-### **Institute of Automation, Chinese Academy of Sciences** `2019.5 -2020.9`
+### **Institute of Automation, Chinese Academy of Sciences** `Jun 2019 - Oct 2019`
 
 _Research Assistant_<br>
-Research on object detection and instance segmentation and join in Google Open-images Instance Segmentation Competition and won silver medal, worked with Prod. Jin Liu.
+Worked with Prod. Jin Liu, on object detection and instance segmentation. Joined in Google Open-images Instance Segmentation Competition and won silver medal.
 
-### **Huawei Research** `2019.7 -2019.8`
+### **Huawei Research** `Jul 2019 - Aug 2019`
 
 _Research Intern_<br>
 Research on objection detection algorithm in mobile phone photographing scene.
 
-### **Microsoft Research** `2018.3 -2018.5`
+### **Microsoft Research** `Mar.2018 -May.2018`
 
 _Research Intern_<br>
 Mainly engaged in Windows System like Active Directory, Database and so on.
@@ -76,13 +78,13 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ---
 
-### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**](http://scholar.dickinson.edu/student_honors/221/)
+### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**]` _in Process._<br>
 
-Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.<br> _in Process._<br>
+Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.
 
-### [**Sudoku Searching Strategy for high precision in real-time applications**](http://scholar.dickinson.edu/student_honors/221/)  <br> _In Prep (Draft)._<br>
+### [**Sudoku Searching Strategy for high precision in real-time applications**]<br> _In Prep (Draft)._<br>
 
-### [**Verification with Coverage NMS for high reliability in object detection**](http://scholar.dickinson.edu/student_honors/221/)  <br> _Working Paper (Draft)._<br>
+### [**Verification with Coverage NMS for high reliability in object detection**]`Working Paper (Draft)._<br>
 
 
 
@@ -107,7 +109,7 @@ Teaching Assistant,**Introduction to C** `SWJTU, 2015 - 2016` <br>
 ## Service
 
 Minister of Foreign Student Department`HNU 2018-2019`
-Organizing activaties and providing consulting serives for foreign student to help them get into the local well. 
+<br> Organizing activaties and providing consulting serives for foreign student to help them get into the local well._<br>
 
 ## Hobbys
 Football, Reading and Music
