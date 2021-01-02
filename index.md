@@ -5,6 +5,8 @@ geometry: margin=4cm
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
+phone:
+  text:(+86)13182489652
 <!--phone:
   text:(+86)13182489652
 ---
@@ -40,7 +42,7 @@ Changsha, China
 Chengdu, China
 ```
 
-- B.S. in Automation, _Ranking Top 5%_
+- B.S. in Automation, _Ranking Top 3
 - Outstanding Graduate of SWJTU
 
 
@@ -68,13 +70,12 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ## Publications
 
-### [**Co-IoU Loss and Relocation Strategy for target matching**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### [**Co-IoU Loss and Relocation Strategy for target matching**](https://github.com/LuZeking/LuZeking.github.io/blob/master/files/visapp.pdf)
 
 **Zejin Lu\***, Jinqi Liao*, Jiyang Lv, and Fengjun Chen.<br> _International Conference on Computer Vision and Applications._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+[[PDF](https://github.com/LuZeking/LuZeking.github.io/blob/master/files/visapp.pdf)]
+[[www](http://visapp.visigrapp.org/Websites.aspx)]
+
 
 ---
 
@@ -108,8 +109,8 @@ Teaching Assistant,**Introduction to C** `SWJTU, 2015 - 2016` <br>
 
 ## Service
 
-Minister of Foreign Student Department`HNU 2018-2019`
-<br> Organizing activaties and providing consulting serives for foreign student to help them get into the local well._<br>
+**Minister of Foreign Student Department**`HNU 2018-2019`
+<br> Organizing activaties and providing consulting serives for foreign student to help them get into the local well.<br>
 
 ## Hobbys
 Football, Reading and Music
