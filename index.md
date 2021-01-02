@@ -102,7 +102,7 @@ The Best Oralist `SWJTU, 2015` <br>
 ## Teaching
 
 Teaching Assistant, **Computer Aided Design System** `HNU, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to C** `SWJTU, 2015 - 2016` <br>
+Teaching Assistant, **Introduction to C Programming** `SWJTU, 2015 - 2016` <br>
 
 
 ## Service
