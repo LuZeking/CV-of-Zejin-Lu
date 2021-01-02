@@ -70,7 +70,7 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ### [**Co-IoU Loss and Relocation Strategy for target matching**](https://github.com/LuZeking/LuZeking.github.io/blob/master/files/visapp.pdf)
 
-**Zejin Lu\***, Jinqi Liao*, Jiyang Lv, and Fengjun Chen.<br> _International Conference on Computer Vision and Applications._ <br>
+**Zejin Lu\***, Jinqi Liao, Jiyang Lv, and Fengjun Chen.<br> _International Conference on Computer Vision and Applications._ <br>
 [[PDF](https://github.com/LuZeking/LuZeking.github.io/blob/master/files/visapp.pdf)]
 [[www](http://visapp.visigrapp.org/Websites.aspx)]
 
@@ -79,7 +79,7 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**]()
 
-Jinqi Liao*, **Zejin Lu**,and Fengjun Chen.`<br> _in Process._<br>
+Jinqi Liao, **Zejin Lu**,and Fengjun Chen.`<br> _in Process._<br>
 
 ### [**Sudoku Searching Strategy for high precision in real-time applications**]()<br> _In Prep (Draft)._<br>
 
