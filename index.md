@@ -54,7 +54,7 @@ Research on machine learning and computer vision algorithm in E-commerce, such a
 ### **Institute of Automation, Chinese Academy of Sciences** `Jun 2019 - Oct 2019`
 
 _Research Assistant_<br>
-Worked with Prof.[Jing Liu](http://www.nlpr.ia.ac.cn/iva/liujing/), on object detection and instance segmentation. Joined in Google Open-images Instance Segmentation Competition and won silver medal.
+Worked with Prof. [Jing Liu](http://www.nlpr.ia.ac.cn/iva/liujing/), on object detection and instance segmentation. Joined in Google Open-images Instance Segmentation Competition and won silver medal.
 
 ### **Huawei Research** `Jul 2019 - Aug 2019`
 
