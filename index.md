@@ -5,8 +5,6 @@ geometry: margin=4cm
 email:
   url: mailto:luzejin@hnu.edu.cn
   text: luzejin@hnu.edu.cn
-phone:
-  text:(+86)13182489652
 <!--phone:
   text:(+86)13182489652
 ---
@@ -42,7 +40,7 @@ Changsha, China
 Chengdu, China
 ```
 
-- B.S. in Automation, _Ranking Top 3
+- B.S. in Automation, _Ranking Top 3_<br>
 - Outstanding Graduate of SWJTU
 
 
@@ -104,7 +102,7 @@ The Best Oralist `SWJTU, 2015` <br>
 ## Teaching
 
 Teaching Assistant, **Computer Aided Design System** `HNU, 2017 - 2018` <br>
-Teaching Assistant,**Introduction to C** `SWJTU, 2015 - 2016` <br>
+Teaching Assistant, **Introduction to C** `SWJTU, 2015 - 2016` <br>
 
 
 ## Service
