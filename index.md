@@ -110,6 +110,12 @@ Teaching Assistant, **Introduction to C Programming** `SWJTU, 2015 - 2016` <br>
 **Minister of Foreign Student Department**`HNU 2018-2019`
 <br> Organizing activaties and providing consulting serives for foreign student to help them get into the local well.<br>
 
+## languages
+English, Fluent in communication, IELTS 6.5 (Reading 7.5, Writing 6.5, Listening 6.5, Speaking 6.0)
+German, Fluent in Reading, Testdaf 14 (Reading 5, Writing 3, Listening 3, Speaking 3)
+Chinese, Mother language
+japanese, Beginner level
+
 ## Hobbys
 Football, Reading and Music
 
