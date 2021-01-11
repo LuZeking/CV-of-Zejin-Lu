@@ -32,7 +32,7 @@ Changsha, China
 ```
 
 - M.Phil. in Computer Vision
-- Advised by [Fengjun Chen](https://www.researchgate.net/profile/Fengjun-Chen) 
+- Top Award of Scholarship
 
 ### **South West Jiaotong University** `Sep 2014 - May 2018`
 
@@ -77,13 +77,13 @@ Mainly engaged in Windows System like Active Directory, Database and so on.
 
 ---
 
-### [**A Real-time Two-stage and Dual-check Positioning Algorithm for Industrial Robots**]()
+### [**A Two-stage Dual-check Approach to Enhance Positioning Accuracy for Industrial Robots**]()
 
 Jinqi Liao, **Zejin Lu**,and Fengjun Chen.`<br> _in Process._<br>
 
-### [**Sudoku Searching Strategy for high precision in real-time applications**]()<br> _In Prep (Draft)._<br>
+### [**Sudoku Searching Strategy for real-time target detection**]()<br> _In Prep (Draft)._<br>
 
-### [**Verification with Coverage NMS for high reliability in object detection**]()`<br> _Working Paper (Draft)._<br>
+### [**High‐reliability object detection: Verification with Coverage NMS **]()`<br> _Working Paper (Draft)._<br>
 
 
 
@@ -112,7 +112,7 @@ Teaching Assistant, **Introduction to C Programming** `SWJTU, 2015 - 2016` <br>
 
 ## languages
 English, Fluent in communication, IELTS 6.5 (Reading 7.5, Writing 6.5, Listening 6.5, Speaking 6.0)
-German, Fluent in Reading, Testdaf 14 (Reading 5, Writing 3, Listening 3, Speaking 3)
+German, Fluent in Reading (Testdaf Reading 5), intermediate level
 Chinese, Mother language
 japanese, Beginner level
 
