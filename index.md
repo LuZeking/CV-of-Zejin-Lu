@@ -111,10 +111,10 @@ Teaching Assistant, **Introduction to C Programming** `SWJTU, 2015 - 2016` <br>
 <br> Organizing activaties and providing consulting serives for foreign student to help them get into the local well.<br>
 
 ## languages
-English, Fluent in communication, IELTS 6.5 (Reading 7.5, Writing 6.5, Listening 6.5, Speaking 6.0)
-German, Fluent in Reading (Testdaf Reading 5), intermediate level
-Chinese, Mother language
-japanese, Beginner level
+English, Fluent in communication, IELTS 6.5 (Reading 7.5, Writing 6.5, Listening 6.5, Speaking 6.0)` <br>
+German, Fluent in Reading (Testdaf Reading 5), intermediate level` <br>
+Chinese, Mother language` <br>
+japanese, Beginner level` <br>
 
 ## Hobbys
 Football, Reading and Music
